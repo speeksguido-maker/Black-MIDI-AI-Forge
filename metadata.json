@@ -1,0 +1,8 @@
+{
+  "name": "Black MIDI AI Forge",
+  "description": "Create, import, and transform MIDI files into Black MIDI spectacles with real-time density up to 1 Billion notes, multi-channel color palettes, hearable/silent notes toggle, and 3-minute full AI song generator with live progress logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
